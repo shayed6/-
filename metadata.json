@@ -1,0 +1,6 @@
+{
+  "name": "SurveyCAD",
+  "description": "Mobile-first, offline-capable 2D land-survey CAD app for Bangladesh surveyors (amin), landowners, and deed writers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
